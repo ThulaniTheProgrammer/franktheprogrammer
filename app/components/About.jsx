@@ -10,7 +10,7 @@ export default function About() {
       <div className='mb-4 mt-10  text-4xl font-semibold'>
         About
       </div> 
-      <div className='text-justify pb-6'>
+      <div className='text-justify pr-10 pb-6'>
       Multi Award Winning Results-driven computer engineering professional with experience in software development, applicationdevelopment, IoT circuit interfacing, and design. Proven ability to develop innovative solutions to solvereal-world problems by integrating software and hardware.
       </div>
       <div className='mt-3'>
