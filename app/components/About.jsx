@@ -11,7 +11,11 @@ export default function About() {
         About
       </div> 
       <div className='text-justify pr-10 pb-6'>
-      Multi Award Winning Results-driven computer engineering professional with experience in software development, applicationdevelopment, IoT circuit interfacing, and design. Proven ability to develop innovative solutions to solvereal-world problems by integrating software and hardware.
+      Ml am an innovator with a strong passion in building tech startups. My entrepreneurial spirit inspired me to participate in various Hackathons when l was in college and won at National and International level including the presidential innovation Award for an outstanding student in national and regional competition. l hold a bachelor's degree of engineering in computer engineering which gave me experience in developing both hardware and software. During my internship l had a privilege to work at a Business Incubation hub which gave me exposure to work on different innovations. 
+
+Currently I am building an agritech startup called Hurudza AI, an accommodation platform for students called Pekugara and a fintech called Co.munity. l believe in building tech for African Community. My team is made up of young passionate innovators and entrepreneurs below the age of 30. 
+
+Hurudza AI my second startup won 2024 ZITF Innovation Award and it was recognised by POTRAZ for outstanding contribution to the development of an innovation culture in Zimbabwe
       </div>
       <div className='mt-3'>
 
